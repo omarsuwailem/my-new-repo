@@ -1,5 +1,6 @@
+# main purpose of the project
 in this project we are writing a scrit to check the system if it exceeded the thershold
-here is my script code 
+# script code 
   GNU nano 7.2                                 monitor.sh                                          
 #!/bin/bash
 
@@ -54,7 +55,7 @@ fi
 # Display output
 cat $LOGFILE
 
-output screens
+# output screens
 ![image](https://github.com/user-attachments/assets/8dbe2075-71de-44ee-acf8-a9bdf1b35c0a)
 
 ![image](https://github.com/user-attachments/assets/c79cbd37-1f79-435c-9020-e06b40305f8f)
